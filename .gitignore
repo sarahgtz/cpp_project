@@ -1,4 +1,6 @@
 .idea
 *.o
 *.d
+programm
+programm.dSYM
 

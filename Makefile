@@ -1,4 +1,4 @@
-CXXFLAGS=-MMD -MP -g -Wall -fsanitize=address
+CXXFLAGS=-MMD -MP -g -Wall -fsanitize=address -std=c++11
 CC=$(CXX)
 
 PROGRAMS=programm
